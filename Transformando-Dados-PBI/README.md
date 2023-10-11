@@ -1,5 +1,5 @@
 
-![Alt Text](/img/1.png)
+![Alt Text](./img/1.png)
 
 ## Descrição do Desafio
 
