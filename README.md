@@ -1,7 +1,7 @@
 # Santander Bootcamp 2023 - Ciência de Dados 
 
 - Ciência de Dados com Python
-- Bancos de Dados SQL e MangoDB
+- Bancos de Dados SQL e MongoDB
 - Visualização e Análise de Dados com Power BI
 - Fundamentos e Técnicas de Machine Learning
 
